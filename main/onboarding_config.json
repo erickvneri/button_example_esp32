@@ -1,0 +1,19 @@
+{
+  "onboardingConfig": {
+    "deviceOnboardingId": "ESP32_DevKitC",
+    "mnId": "0AMA",
+    "setupId": "002",
+    "vid": "ST_7cbf23cc-698f-4c60-b4e7-f617231d9248",
+    "deviceTypeId": "PresenceSensor",
+    "ownershipValidationTypes": [
+      "JUSTWORKS"
+    ],
+    "identityType": "ED25519",
+    "deviceIntegrationProfileKey": {
+      "id": "c629497d-61c0-4fca-8007-bee199037460",
+      "majorVersion": 0,
+      "minorVersion": 1
+    },
+    "productId": "4742d839-74a5-434d-8fef-bf0c68e8f3fd"
+  }
+}
